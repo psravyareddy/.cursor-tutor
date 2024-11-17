@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@internationalized/date": "^3.5.6",
+    "@react-aria/datepicker": "^3.11.4",
+    "@react-aria/i18n": "^3.12.3",
+    "@react-stately/datepicker": "^3.10.3"
+  }
+}
